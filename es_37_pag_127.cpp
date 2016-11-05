@@ -1,4 +1,4 @@
-//Funzione che restituisce l'età di una persona
+//Funzione che restituisce l'etÃ  di una persona
 #include<iostream>
 using namespace std;
 
@@ -6,7 +6,7 @@ int eta(int anno_di_nascita);
 
 int main(){
 	int anno_di_nascita;
-	cout<<"L'eta' della persona ha:"<<' '<<eta(anno_di_nascita)<<' '<<"anni";
+	cout<<"L'eta' della persona e':"<<' '<<eta(anno_di_nascita)<<' '<<"anni";
 	return 0;
 }
 
