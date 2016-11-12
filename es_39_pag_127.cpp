@@ -16,7 +16,7 @@ return 0;
 
 bool perpendicolare(int x,int y){
 	bool vero;
-	if(x=-1/y){
+	if(x=-1/x){
 		vero=true;
 		cout<<"Le rette sono perpndicolari";
 	}else{
